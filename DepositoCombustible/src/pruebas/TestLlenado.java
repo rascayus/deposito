@@ -1,14 +1,19 @@
+package pruebas;
+
 
 
 
 
 import static org.junit.Assert.*;
 
+
 import java.util.Arrays;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
+
+import principal.DepositoCombustible;
 @RunWith(value = Parameterized.class)
 
 public class TestLlenado {

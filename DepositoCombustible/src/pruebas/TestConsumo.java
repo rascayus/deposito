@@ -1,3 +1,4 @@
+package pruebas;
 
 
 
@@ -9,6 +10,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
+
+import principal.DepositoCombustible;
 @RunWith(value = Parameterized.class)
 
 public class TestConsumo {

@@ -1,3 +1,4 @@
+package principal;
 
 /**
  * Main class of the Java program. 
